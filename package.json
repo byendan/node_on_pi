@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Learning to put node on my PI",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byendan/node_on_pi.git"
+  },
+  "keywords": [
+    "pi"
+  ],
+  "author": "brendan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byendan/node_on_pi/issues"
+  },
+  "homepage": "https://github.com/byendan/node_on_pi#readme"
+}
